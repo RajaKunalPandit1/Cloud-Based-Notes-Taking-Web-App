@@ -1,0 +1,25 @@
+.div{
+    background: #f8ad9d;
+}
+
+
+
+.footer{
+    background: #3da5d9;
+    display: flex;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Cutive", serif;
+}
+
+.footer-container{
+    background: #3da5d9;
+    /* color: white; */
+   text-align: center;
+    margin: auto;
+    padding: 0;
+   display: flex;
+   justify-content: space-between;
+   max-width: 100%;
+}
