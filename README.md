@@ -19,6 +19,66 @@ Cloud-based note-taking web application is a digital tool that allows users to c
 
 This application is highly customizable, providing features like text formatting, checklists, search capabilities to help users manage their notes efficiently.
 
+## RESULT AND DISCUSSIONS
+
+Now, I’m going to discuss what my final website looks like. It's a responsive, Efficient and user friendly site and it provides an ability to the users to write their notes on it efficiently and effortlessly. Using this application users can create, update, delete and edit their created notes. 
+
+My cloud-based note-taking web application I developed utilizing HTML, CSS, JavaScript, React Js, and Node Js offers users a dependable and effective solution to store and retrieve their notes and data from anywhere and at any time. HTML acts as the foundation for the application's structure and content, CSS enhances the user interface, and JavaScript adds interactivity and functionality to the application. React Js facilitates the creation of reusable UI components, while Node Js is responsible for the server-side component of the application. Collectively, these technologies contribute to the application's features, effectiveness, and performance. And MongoDB is used for storing users' data and their credentials.
+
+Below is the home page for my website, which consists of a navbar,main body, footer and some buttons : 
+
+<p>
+    <img src="https://github.com/RajaKunalPandit1/Cloud-Based-Notes-Taking-Web-App/assets/76692648/4d722971-c0b5-49e3-bd45-f3195c9966cb" alt><br/>
+    <em>Fig.1</em>
+</p>
+
+By Clicking Signup, user is Redirected to signup form where users credentials are taken and stored in MongoDB : 
+
+<p>
+    <img src="https://github.com/RajaKunalPandit1/Cloud-Based-Notes-Taking-Web-App/assets/76692648/e3cc0faf-01d2-4c0f-9b9a-ce519f1525f3" alt><br/>
+    <em>Fig.2</em>
+</p>
+
+After Successful signup, you will be redirected to the login page, to verify your credentials and for the access of services offered in my application :
+
+<p>
+    <img src="https://github.com/RajaKunalPandit1/Cloud-Based-Notes-Taking-Web-App/assets/76692648/efcadaf8-69ca-4f86-8932-33c216b56b87" alt><br/>
+    <em>Fig.3</em>
+</p>
+
+<p>
+    <img src="https://github.com/RajaKunalPandit1/Cloud-Based-Notes-Taking-Web-App/assets/76692648/8c286f53-c59c-4d0e-afc9-0b12351b172a" alt><br/>
+    <em>Fig.4</em>
+</p>
+
+You will be entered in the application if the credentials entered in login page are verified, and once verified your home screen will look something like this :
+
+<p>
+    <img src="https://github.com/RajaKunalPandit1/Cloud-Based-Notes-Taking-Web-App/assets/76692648/a2295c6b-2ebe-4d2d-98c4-4d40ffe3dbc7" alt><br/>
+    <em>Fig.5</em>
+</p>
+
+If you want to create a new doc, then this is the text editor that is going to be opened and here you can format and style the document as required : 
+
+<p>
+    <img src="https://github.com/RajaKunalPandit1/Cloud-Based-Notes-Taking-Web-App/assets/76692648/36b47c16-9fde-4582-8ffc-65f56e38ee06" alt><br/>
+    <em>Fig.6</em>
+</p>
+
+After Creating the Document, we can see that it’s visible on the main home screen:
+
+<p>
+    <img src="https://github.com/RajaKunalPandit1/Cloud-Based-Notes-Taking-Web-App/assets/76692648/c667a738-663d-4a06-967b-144e50a975d3" alt><br/>
+    <em>Fig.7</em>
+</p>
+
+Following is the database where all the user credentials are stored with their created data in encrypted form : 
+
+<p>
+    <img src="https://github.com/RajaKunalPandit1/Cloud-Based-Notes-Taking-Web-App/assets/76692648/ce34bae1-c99f-4622-a6fd-ba95a74f3aa7" alt><br/>
+    <em>Fig.8</em>
+</p>
+
 ## Real-life implementation:
 
 The Cloud Based Notes Taking Application can be implemented in various industries and sectors and has transformed the way people capture and manage information. Let's take a look at some of the real-life implementation of this application:
